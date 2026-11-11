@@ -1,3 +1,2 @@
-(cfs :water this_is_a_water_map :chiseled_stone this_is_a_ston_chiseled_map :cobblestone this_is_a_cobblestone_roadway)
-
-(dms 7)
+cfs :water this_is_a_water_map :chiseled_stone this_is_a_ston_chiseled_map :cobblestone this_is_a_cobblestone_roadway
+dms 7
