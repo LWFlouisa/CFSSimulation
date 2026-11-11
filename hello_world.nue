@@ -1,0 +1,5 @@
+(enc "Positive Greeters")
+(cfs :hello_world this_is_a_hello_world_greeting :hello_andy this_is_a_hello_andy_greeting :hello_bethany this_is_a_hello_bethany_greeting)
+
+(enc "Negative Greeters")
+(nfs :goodye_world this_is_a_goodbye_world_greeting :goodye_andy this_is_a_hello_goodbye_greeting :goodye_bethany this_is_a_goodbye_bethany_greeting)
