@@ -1,0 +1,11 @@
+(encrireln Genre De Fruit)
+(chanu :le_pomme pomme je mangeon :le_banane banane je mangeon :le_citrone citrone je mangeon)
+
+(encrireln Genre De Legumes)
+(chanu :le_aubergine le_aubergine je mangeon :le_carrot carrot je mangeon :le_pomme_de_terre le_pomme_de_terre je mangeon)
+
+(encrireln Genre De Pieds)
+(chanu :le_sabots_de_bois le_sabots_de_bois je avoir :le_sabots_de_vache le_sabots_de_vache je avoir :le_sabots_de_vin le_sabots_de_vin je avoir)
+
+# Instructions for generating
+# ./awasunu_clothed scripts/clothed_scripts/les_genres_de_livres.awa
